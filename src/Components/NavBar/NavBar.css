@@ -1,0 +1,6 @@
+.navbar__component {
+  width: 100vw;
+  height: 80px;
+  background-color: #131a22;
+  display: flex;
+}

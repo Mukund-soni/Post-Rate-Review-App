@@ -1,0 +1,39 @@
+.RightSide__main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /* display: grid; */
+}
+.product {
+  width: 228px;
+  margin: 30px;
+  border-radius: 5px;
+  /* width: 20%;
+  margin: 5%; */
+}
+/* .product__image {
+   object-fit: contain; 
+} */
+.product__name {
+  font-size: 16px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+}
+.product__rating {
+  font-size: 14px;
+  color: #007185;
+}
+.product__price {
+  font-size: 20px;
+  font-weight: 600;
+}
+.link {
+  text-decoration: none;
+  text-align: center;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
